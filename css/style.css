@@ -1,8 +1,28 @@
-/* == */
+/* ====== Google Fonts ====== */
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100;200;300;400;500;600;700&display=swap');
 
-/* == */
+/* ====== CSS Variable ====== */
+:root {
+  --white-color: #fff;
+  --dark-color: #222;
+  --body-bg-color: #fff;
+  --section-bg-color: #202834;
+  --navigation-item-hover-color: #3b5378;
 
+  --text-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
+  --box-shadow: 0 5px 25px rgba(0 0 0 / 20%);
+
+  --scroll-bar-color: #fff;
+  --scroll-thumb-color: #282f4e;
+  --scroll-thumb-hover-color: #454f6b;
+}
+
+/* == */
 body {
   font-family: 'IBM Plex Sans', sans-serif;
 }
+
+/* ====== Scroll Bar ====== */
+
+
+/* ====== Main CSS ====== */
